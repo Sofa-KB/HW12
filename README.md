@@ -1,2 +1,2 @@
 # HW17
-Fitness Tracker build in Node backed by MongoDB
+Fitness Tracker built in Node backed by MongoDB
